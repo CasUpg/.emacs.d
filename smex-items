@@ -1,0 +1,28 @@
+
+;; ----- smex-history -----
+(
+ markdown-mode
+ hippie-expand
+ package-list-packages
+ eshell-command
+ eshell
+ flyspell-mode
+ viper-mode
+)
+
+;; ----- smex-data -----
+(
+ (package-list-packages . 6)
+ (idle-highlight-mode . 2)
+ (menu-bar-mode . 2)
+ (shell . 1)
+ (eshell . 3)
+ (markdown-mode . 13)
+ (flyspell-mode . 5)
+ (emacs-version . 1)
+ (browse-url-w3 . 2)
+ (viper-mode . 4)
+ (viper-go-away . 1)
+ (eshell-command . 1)
+ (hippie-expand . 1)
+)

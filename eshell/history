@@ -1,0 +1,20 @@
+python kalman_sin_numpy.py
+python kalman_numpy.py
+python kalman_giros_acelerometros.py 
+python kalman_giros_acelerometros.py 
+python kalman_giros_acelerometros.py 
+python kalman_giros_acelerometros.py 
+python kalman_giros_acelerometros.py 
+julia
+exit
+cp -h
+cp --help
+ls
+exit
+pandoc ideas_del_curso.md -o ideas_del_curso.pdf
+pandoc evidencia_plan_negocios.md -o evidencia_plan_negocios.pdf
+pandoc evidencia_plan_negocios.md -o evidencia_plan_negocios.pdf
+pandoc evidencia_plan_negocios.md -o evidencia_plan_negocios.pdf
+pandoc evidencia_plan_negocios.md -o evidencia_plan_negocios.pdf
+pandoc --template=/home/gerardo/.pandoc/default.latex  evidencia_plan_negocios.md -o evidencia_plan_negocios.pdf
+pandoc --template=/home/gerardo/.pandoc/default.latex  evidencia_plan_negocios.md -o evidencia_plan_negocios.pdf
